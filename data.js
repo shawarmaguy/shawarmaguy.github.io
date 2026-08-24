@@ -17,7 +17,7 @@ const territories = [
   {
     id: "c1",
     name: "Frostholm",
-    ruler: null,
+    ruler: zabrehmar,
     color: "#3f5a41",
     taxPercent: 0,
     siege: false
